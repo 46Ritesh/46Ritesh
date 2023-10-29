@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 46Ritesh
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java, HTML, CSS, JS, Python
+- 🌱 I’m currently using Java, Spring Boot, HTML, CSS, JS, Angular, Python
 - 💞️ I’m looking to collaborate on tech projects.
 - 📫 How to reach me - 9561823610
 
